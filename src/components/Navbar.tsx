@@ -4,13 +4,12 @@ import { motion } from 'framer-motion';
 
 const navItems = [
   { name: 'Home', href: '#home' },
-  { name: 'About Us', href: '#about-us' },
+  { name: 'About Us', href: '#vision-mission'},
   { name: 'Contact', href: '#contact' },
   {
     name: 'School Life',
-    href: '#',
+    href: '#school',
     dropdown: [
-      { name: 'Terms', href: '#Terms' },
       { name: 'Subjects', href: '#subjects-offered' },
       { name: 'Gallery', href: '#gallery' },
       { name: 'Sports', href: '#sports' },

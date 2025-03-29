@@ -78,13 +78,13 @@ export default function Contact() {
               <p className="text-white mb-4">We currently have no sponsors/partners.</p>
               <div className="flex space-x-4">
                 <a
-                  href="mailto:sponsorship@phuthinisecondaryschool.co.za?subject=Sponsorship Proposal"
+                  href="mailto:vcele39@gmail.com?subject=Sponsorship Proposal"
                   className="px-6 py-3 bg-black text-primary border-2 border-primary rounded-lg hover:bg-primary hover:text-black transition-colors duration-300"
                 >
                   Become a Sponsor
                 </a>
                 <a
-                  href="mailto:partnership@phuthinisecondaryschool.co.za?subject=Partnership Proposal"
+                  href="mailto:vcele39@gmail.com?subject=Partnership Proposal"
                   className="px-6 py-3 bg-black text-primary border-2 border-primary rounded-lg hover:bg-primary hover:text-black transition-colors duration-300"
                 >
                   Partner with Us
