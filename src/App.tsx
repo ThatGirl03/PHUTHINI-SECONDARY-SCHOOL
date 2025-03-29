@@ -16,7 +16,7 @@ function App() {
     <div className="min-h-screen bg-secondary">
       <Navbar />
       <Hero />
-      <About />
+      <About/>
       <Subjects />
       <Gallery />
       <Sports />
