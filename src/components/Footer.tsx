@@ -35,7 +35,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold text-primary mb-4">Admin</h3>
             <a
-              href="/admin"
+              href="#home"
               className="inline-block px-6 py-2 border-2 border-primary text-primary rounded-lg hover:bg-primary hover:text-black transition-colors duration-300"
             >
               Admin Login

@@ -8,7 +8,7 @@ const navItems = [
   { name: 'Contact', href: '#contact' },
   {
     name: 'School Life',
-    href: '#school',
+    href: '#subjects-offered',
     dropdown: [
       { name: 'Subjects', href: '#subjects-offered' },
       { name: 'Gallery', href: '#gallery' },
