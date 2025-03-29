@@ -11,7 +11,7 @@ const folders: Folder[] = [
   
   {
     title: "Educators's Academic Excellence",
-    images: ["/assets/x.jpg", "/assets/..jpg", "/assets/..jpg", "/assets/..jpg", "/assets/..jpg", "/assets/..jpg"],
+    images: ["/assets/x.jpg"],
   },
   {
     title: "Learner's Academic Excellence",
@@ -23,7 +23,7 @@ const folders: Folder[] = [
   },
   {
     title: "Competition Participation",
-    images: ["/assets/C00.jpg", "/assets/..jpg"],
+    images: ["/assets/C00.jpg"],
   },
   {
     title: "Sports Achievement",
@@ -31,7 +31,7 @@ const folders: Folder[] = [
   },
   {
     title: "Wall of Awards",
-    images: ["/assets/W03.jpg", "/assets/..jpg"],
+    images: ["/assets/W03.jpg"],
   },
   
 ];
