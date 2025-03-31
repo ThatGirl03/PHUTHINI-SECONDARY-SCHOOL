@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { TrendingUp, Users, GraduationCap } from 'lucide-react';
-
+<meta name="google-site-verification" content="W7l2CMG86l4fSZAiMDMigMhw719XgYCpnSmsiERbvXQ" />
 const stats = [
   { icon: TrendingUp, label: 'Pass Rate', value: '85%' },
   { icon: Users, label: 'Learners', value: '370+' },
