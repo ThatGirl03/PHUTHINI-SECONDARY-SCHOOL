@@ -3,9 +3,29 @@ import { useInView } from 'react-intersection-observer';
 
 const events = [
     {
-    title: 'Environmental affairs visit',
+    title: 'Environmental affairs visit 2025',
     image: ["/assets/Z10.jpeg"],
     description: 'The environmental affairs paid us a wonderful visit and delivered essential gifts for our learners, 2025.'
+  },
+      {
+    title: 'School functionality 2025',
+    image: ["/assets/Z13.jpeg"],
+    description: 'School functionality.'
+  },
+     {
+    title: 'Top Achievers Breakfast 2025',
+    image: ["/assets/Z19.jpeg"],
+    description: 'To encourage our learners, we acknowledge their hard work and reward them in a way that shows appreciation. This also shows them the possibilities of life when one excels in what they do.'
+  },
+    {
+    title: '1st Eskom Expo Participation 2025',
+    image: ["/assets/Z22.jpeg"],
+    description: 'Under the mentorship of SINGAWE Innovative, our 2 learners, Olwethu Mswane, received a silver award in the category of Computer Science and Thandolenkosi Hadebe, received a Highly Commended award, in the category of Energy, both at National level of the competition.'
+  },
+       {
+    title: 'School Construction Site Visit 2025',
+    image: ["/assets/Z1.jpeg"],
+    description: 'We paid a visit to our school under construction, with our learners.'
   },
   {
     title: 'Matric Excursion',
@@ -13,6 +33,11 @@ const events = [
     description: 'Our Grade 12 2024 got the opportunity to visit Bata, the school shoes manufacturing factory.'
   },
   {
+    title: 'Ingezo boys debate team grade 9 2025',
+    image: ["/assets/Z17.jpeg"],
+    description: 'We motivate early public speaking to our learners while allowing them to express and represent themselves in a way that encourages them to grow, and embrace opportunities.',
+  },
+    {
     title: 'Debate Competition',
     image: ["/assets/E5.jpg"],
     description: 'We encourage our learners to participate in activities that require them to exchange information amongst themselves and other schools.',
