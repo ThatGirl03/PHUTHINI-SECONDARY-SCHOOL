@@ -2,6 +2,11 @@ import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 
 const events = [
+    {
+    title: 'Environmental affairs visit',
+    image: ["/assets/Z10.jpg"],
+    description: 'The environmental affairs paid us a wonderful visit and delivered essential gifts for our learners, 2025.'
+  },
   {
     title: 'Matric Excursion',
     image: ["/assets/E1.jpg"],
@@ -11,8 +16,6 @@ const events = [
     title: 'Debate Competition',
     image: ["/assets/E5.jpg"],
     description: 'We encourage our learners to participate in activities that require them to exchange information amongst themselves and other schools.',
-    image: ["/assets/10.jpg"],
-    description: 'Environmental Affairs Visit 2025.'
   },
   {
     title: 'Matric Exams',
