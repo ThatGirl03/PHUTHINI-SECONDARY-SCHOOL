@@ -19,12 +19,12 @@ const events = [
   },
     {
     title: '1st Eskom Expo Participation 2025',
-    image: ["/assets/Z22.jpeg"],
+    image: ["/assets/Z23.jpeg"],
     description: 'Under the mentorship of SINGAWE Innovative, our 2 learners, Olwethu Mswane, received a silver award in the category of Computer Science and Thandolenkosi Hadebe, received a Highly Commended award, in the category of Energy, both at National level of the competition.'
   },
        {
     title: 'School Construction Site Visit 2025',
-    image: ["/assets/Z1.jpeg"],
+    image: ["/assets/Z01.jpeg"],
     description: 'We paid a visit to our school under construction, with our learners.'
   },
   {
