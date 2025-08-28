@@ -19,7 +19,7 @@ const events = [
   },
     {
     title: '1st Eskom Expo Participation 2025',
-    image: ["/assets/Z23.jpeg"],
+    image: ["/assets/Z24.jpeg"],
     description: 'Under the mentorship of SINGAWE Innovative, our 2 learners, Olwethu Mswane, received a silver award in the category of Computer Science and Thandolenkosi Hadebe, received a Highly Commended award, in the category of Energy, both at National level of the competition.'
   },
        {
