@@ -5,12 +5,14 @@ const events = [
   {
     title: 'Matric Excursion',
     image: ["/assets/E1.jpg"],
-    description: 'Our Grade 12 2024 got the opportunity to visit Bata the school shoes manufacturing factory.'
+    description: 'Our Grade 12 2024 got the opportunity to visit Bata, the school shoes manufacturing factory.'
   },
   {
     title: 'Debate Competition',
     image: ["/assets/E5.jpg"],
-    description: 'We encourage our learners to participate in activities that requires them to exchange information amongst themselves and other schools.'
+    description: 'We encourage our learners to participate in activities that require them to exchange information amongst themselves and other schools.',
+    image: ["/assets/10.jpg"],
+    description: 'Environmental Affairs Visit 2025.'
   },
   {
     title: 'Matric Exams',
