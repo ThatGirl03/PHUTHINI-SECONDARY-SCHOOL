@@ -33,8 +33,8 @@ const events = [
     description: 'Our Grade 12 2024 got the opportunity to visit Bata, the school shoes manufacturing factory.'
   },
   {
-    title: 'Ingezo boys debate team grade 9 2025',
-    image: ["/assets/Z17.jpeg"],
+    title: 'Debate team grade 9 2025',
+    image: ["/assets/Z16.jpeg"],
     description: 'We motivate early public speaking to our learners while allowing them to express and represent themselves in a way that encourages them to grow, and embrace opportunities.',
   },
     {
