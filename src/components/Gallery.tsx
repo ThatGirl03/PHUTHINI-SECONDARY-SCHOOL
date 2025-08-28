@@ -9,21 +9,29 @@ type Folder = {
 
 const folders: Folder[] = [
   
+   {
+    title: "School Construction Site 2025",
+    images: ["/assets/Z11.jpeg", "/assets/Z12.jpeg", "/assets/Z1.jpeg", "/assets/Z3.jpeg"],
+  },
+  {
+    title: "School Visits 2025",
+    images: ["/assets/Z10.jpeg", "/assets/Z5.jpeg", "/assets/Z6.jpeg", "/assets/Z7.jpeg", "/assets/Z8.jpeg", "/assets/Z9.jpeg", "/assets/Z13.jpeg", "/assets/Z14.jpeg"],
+  },
   {
     title: "Educators's Academic Excellence",
     images: ["/assets/x.jpg"],
   },
   {
     title: "Learner's Academic Excellence",
-    images: ["/assets/A1.jpg", "/assets/A5.jpg", "/assets/A3.jpg", "/assets/A4.jpg", "/assets/A2.jpg", "/assets/C1.jpg"],
+    images: ["/assets/Z18.jpeg", "/assets/Z20.jpeg", "/assets/A1.jpg", "/assets/A5.jpg", "/assets/A3.jpg", "/assets/A4.jpg", "/assets/A2.jpg", "/assets/C1.jpg"],
   },
   {
     title: "Debate Champions",
-    images: ["/assets/E2.jpg", "/assets/E3.jpg"],
+    images: ["/assets/Z16.jpeg", "/assets/Z17.jpeg", "/assets/E2.jpg", "/assets/E3.jpg"],
   },
   {
     title: "Competition Participation",
-    images: ["/assets/C00.jpg"],
+    images: ["/assets/Z21.jpeg", "/assets/Z22.jpeg", "/assets/C00.jpg"],
   },
   {
     title: "Sports Achievement",
