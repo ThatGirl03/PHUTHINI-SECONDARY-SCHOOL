@@ -14,8 +14,8 @@ const folders: Folder[] = [
     images: ["/assets/Z11.jpeg", "/assets/Z12.jpeg", "/assets/Z1.jpeg", "/assets/Z3.jpeg"],
   },
   {
-    title: "School Visits 2025",
-    images: ["/assets/Z10.jpeg", "/assets/Z5.jpeg", "/assets/Z6.jpeg", "/assets/Z7.jpeg", "/assets/Z8.jpeg", "/assets/Z9.jpeg", "/assets/Z13.jpeg", "/assets/Z14.jpeg"],
+    title: "School Visits & Representation 2025",
+    images: [ "/assets/Z17.jpeg", "/assets/Z10.jpeg", "/assets/Z5.jpeg", "/assets/Z6.jpeg", "/assets/Z7.jpeg", "/assets/Z8.jpeg", "/assets/Z9.jpeg", "/assets/Z13.jpeg", "/assets/Z14.jpeg"],
   },
   {
     title: "Educators's Academic Excellence",
