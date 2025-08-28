@@ -4,7 +4,7 @@ import { useInView } from 'react-intersection-observer';
 const events = [
     {
     title: 'Environmental affairs visit',
-    image: ["/assets/Z10.jpg"],
+    image: ["/assets/Z10.jpeg"],
     description: 'The environmental affairs paid us a wonderful visit and delivered essential gifts for our learners, 2025.'
   },
   {
